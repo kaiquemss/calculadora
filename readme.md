@@ -2,6 +2,8 @@
 
 <p>Esse projeto é uma Calculadora feita com Javascript</p>
 
+https://kaiquemss.github.io/calculadora/
+
 <img src="./assets/Animação2.gif">
 
 <hr> 
